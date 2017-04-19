@@ -1,0 +1,28 @@
+
+// Company Logo
+.logo {
+  height: 50px;
+  padding: 10px 20px 10px 0px;
+  width:auto;
+}
+
+.navbar-toggle-activate {
+  display: block !important;
+}
+
+#app {
+  margin-bottom: 60px;
+}
+
+footer {
+  background-color: #eedfd8;
+  height: 60px;
+  width: 100%;
+  margin-top: 20px;
+  position: fixed;
+  bottom: 0;
+}
+
+footer>.container>p {
+  margin: 15px 0;
+}

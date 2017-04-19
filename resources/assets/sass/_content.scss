@@ -1,0 +1,40 @@
+#username {
+  color: #FFF;
+}
+
+#test-btn {
+  margin-top: 5%;
+}
+
+.img-container img {
+  height: 75%;
+  width: 100%;
+}
+
+.value-block-container{
+  height: auto;
+}
+
+.sensor-value-container {
+  height: 60%;
+  width: 60%;
+  margin: 15% 0;
+  padding: 5px;
+  background-color: #e2e2e2;
+  border-radius: 10px;
+  //box-shadow: 2px 2px 3px rgba(0,0,0,0.2);
+}
+
+.sensor-title{
+  text-align: center;
+}
+
+
+.sensor-title-1{
+  text-align: center;
+}
+
+.sensor-value{
+  text-align: center;
+  font-weight: bold;
+}
